@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"D:\\\\Project\\\\Github\\\\FajarLaksono\\\\ai-neuro-EEG-ds002778-analysis\" && python --version && python -c \"import mne; print\\('mne', mne.__version__\\)\" 2>&1 && python -c \"import mne_bids; print\\('mne_bids', mne_bids.__version__\\)\" 2>&1 && python -c \"import pyprep; print\\('pyprep', pyprep.__version__\\)\" 2>&1)"
+    ]
+  }
+}

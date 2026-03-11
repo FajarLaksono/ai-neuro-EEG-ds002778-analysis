@@ -1,0 +1,7 @@
+openneuro-py
+mne
+mne-bids
+pandas
+numpy
+matplotlib
+seaborn
