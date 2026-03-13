@@ -1,4 +1,7 @@
-# ai-neuro-EEG-ds002778-analysishttps://github.com/OpenNeuroDatasets/ds002778
+# AI-Neuroscience: EEG-Based Parkinson's Disease Classification
+
+ai-neuro-EEG-ds002778-analysishttps://github.com/OpenNeuroDatasets/ds002778
 
 Example: 
 https://github.com/berdakh/eeg-pytorch-bci/tree/master
+
